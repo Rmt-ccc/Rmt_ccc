@@ -1,4 +1,4 @@
-# rimuru
+# Rmt_ccc
 
 Decompilation enthusiast. I do everything using only open-source tools and mobile devices.
 
